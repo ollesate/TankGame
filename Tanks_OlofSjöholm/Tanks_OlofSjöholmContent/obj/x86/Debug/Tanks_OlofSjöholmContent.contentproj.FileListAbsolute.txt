@@ -1,0 +1,4 @@
+c:\users\admin\documents\visual studio 2010\Projects\Tanks_OlofSjöholm\Tanks_OlofSjöholm\Tanks_OlofSjöholmContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Dropbox\Skola\programmering\Tanks_OlofSjöholm\Tanks_OlofSjöholm\Tanks_OlofSjöholmContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Spellabbet\Dropbox\Skola\programmering\Tanks_OlofSjöholm\Tanks_OlofSjöholm\Tanks_OlofSjöholmContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\olof\Desktop\C# Proj\Tanks_OlofSjöholm\Tanks_OlofSjöholm\Tanks_OlofSjöholmContent\obj\x86\Debug\Tanks_OlofSjöholmContent.contentprojResolveAssemblyReference.cache

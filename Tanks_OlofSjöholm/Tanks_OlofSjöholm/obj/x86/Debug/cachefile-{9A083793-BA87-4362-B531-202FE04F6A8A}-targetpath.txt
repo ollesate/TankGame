@@ -1,0 +1,14 @@
+Content\Images\Tank.xnb
+Content\Images\SpriteSheet_svae.xnb
+Content\Images\woodwall.xnb
+Content\Images\cracks.xnb
+Content\Images\TankTitle.xnb
+Content\Images\particleTexture.xnb
+Content\Images\powerup.xnb
+Content\Fonts\standardFont.xnb
+Content\Sound\animals025.xnb
+Content\Sound\powerup.xnb
+Content\Fonts\SegoeUI.xnb
+Content\Images\green.xnb
+Content\Images\red.xnb
+Content\Fonts\SegoeUI.fnt

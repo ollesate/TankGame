@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\Tank.png</Source>
+      <Name>Images\Tank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\olof\Desktop\C# Proj\Tanks_OlofSjöholm\Tanks_OlofSjöholm\Tanks_OlofSjöholm\bin\x86\Debug\Content\Images\Tank.xnb</Output>
+      <Time>2012-11-06T08:46:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\SpriteSheet_svae.png</Source>
+      <Name>Images\SpriteSheet_svae</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\olof\Desktop\C# Proj\Tanks_OlofSjöholm\Tanks_OlofSjöholm\Tanks_OlofSjöholm\bin\x86\Debug\Content\Images\SpriteSheet_svae.xnb</Output>
+      <Time>2012-11-06T09:07:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\woodwall.png</Source>
+      <Name>Images\woodwall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\olof\Desktop\C# Proj\Tanks_OlofSjöholm\Tanks_OlofSjöholm\Tanks_OlofSjöholm\bin\x86\Debug\Content\Images\woodwall.xnb</Output>
+      <Time>2012-11-10T18:38:24.2643344+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\cracks.png</Source>
+      <Name>Images\cracks</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\olof\Desktop\C# Proj\Tanks_OlofSjöholm\Tanks_OlofSjöholm\Tanks_OlofSjöholm\bin\x86\Debug\Content\Images\cracks.xnb</Output>
+      <Time>2012-11-10T19:58:25.265936+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\TankTitle.png</Source>
+      <Name>Images\TankTitle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\olof\Desktop\C# Proj\Tanks_OlofSjöholm\Tanks_OlofSjöholm\Tanks_OlofSjöholm\bin\x86\Debug\Content\Images\TankTitle.xnb</Output>
+      <Time>2012-11-19T21:25:20.8633382+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\particleTexture.png</Source>
+      <Name>Images\particleTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\olof\Desktop\C# Proj\Tanks_OlofSjöholm\Tanks_OlofSjöholm\Tanks_OlofSjöholm\bin\x86\Debug\Content\Images\particleTexture.xnb</Output>
+      <Time>2012-11-20T15:56:48+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\powerup.png</Source>
+      <Name>Images\powerup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\olof\Desktop\C# Proj\Tanks_OlofSjöholm\Tanks_OlofSjöholm\Tanks_OlofSjöholm\bin\x86\Debug\Content\Images\powerup.xnb</Output>
+      <Time>2012-11-21T15:31:48+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\standardFont.spritefont</Source>
+      <Name>Fonts\standardFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\olof\Desktop\C# Proj\Tanks_OlofSjöholm\Tanks_OlofSjöholm\Tanks_OlofSjöholm\bin\x86\Debug\Content\Fonts\standardFont.xnb</Output>
+      <Time>2012-11-19T00:45:42.5790594+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\animals025.mp3</Source>
+      <Name>Sound\animals025</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\olof\Desktop\C# Proj\Tanks_OlofSjöholm\Tanks_OlofSjöholm\Tanks_OlofSjöholm\bin\x86\Debug\Content\Sound\animals025.xnb</Output>
+      <Time>2012-11-23T10:07:21+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\powerup.mp3</Source>
+      <Name>Sound\powerup</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\olof\Desktop\C# Proj\Tanks_OlofSjöholm\Tanks_OlofSjöholm\Tanks_OlofSjöholm\bin\x86\Debug\Content\Sound\powerup.xnb</Output>
+      <Time>2012-11-23T10:34:45+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\SegoeUI.tga</Source>
+      <Name>Fonts\SegoeUI</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\olof\Desktop\C# Proj\Tanks_OlofSjöholm\Tanks_OlofSjöholm\Tanks_OlofSjöholm\bin\x86\Debug\Content\Fonts\SegoeUI.xnb</Output>
+      <Time>2015-10-24T22:41:31.7215038+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\green.png</Source>
+      <Name>Images\green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\olof\Desktop\C# Proj\Tanks_OlofSjöholm\Tanks_OlofSjöholm\Tanks_OlofSjöholm\bin\x86\Debug\Content\Images\green.xnb</Output>
+      <Time>2015-11-04T10:45:17.5816521+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\red.png</Source>
+      <Name>Images\red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\olof\Desktop\C# Proj\Tanks_OlofSjöholm\Tanks_OlofSjöholm\Tanks_OlofSjöholm\bin\x86\Debug\Content\Images\red.xnb</Output>
+      <Time>2015-11-04T10:45:17.582652+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\olof\Desktop\C# Proj\Tanks_OlofSjöholm\Tanks_OlofSjöholm\Tanks_OlofSjöholmContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\olof\Desktop\C# Proj\Tanks_OlofSjöholm\Tanks_OlofSjöholm\Tanks_OlofSjöholm\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\olof\Desktop\C# Proj\Tanks_OlofSjöholm\Tanks_OlofSjöholm\Tanks_OlofSjöholmContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\olof\Desktop\C# Proj\Tanks_OlofSjöholm\Tanks_OlofSjöholm\Tanks_OlofSjöholm\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-08-25T01:51:08.1154763+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
